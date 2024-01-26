@@ -14,7 +14,6 @@ Features:
         e) Phone number
         f) Automatically generates a unique account number.
 
-
 2.Sign In:
     Users can log in with their account number and password to view their account details.
 
