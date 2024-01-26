@@ -4,7 +4,7 @@ Overview
 log in, make transactions, and transfer funds between accounts.
     It uses MVVM (Model View ViewModel) pattern.
 
-Features
+Features:
 1. Create Account:
     Allows users to create a new account with the following details:
         a) Name
