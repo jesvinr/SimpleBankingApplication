@@ -24,6 +24,6 @@ Fund Transfer:
 
 4.Money transfer:
     Allows users to transfer money from one account to another.
-Two options for fund transfer:
-Provide own account number, password, recipient's account number, and the amount.
-Provide recipient's account number and the amount (assuming the user has cash on hand).
+    Two options for fund transfer:
+        a) Provide own account number, password, recipient's account number, and the amount.
+        b) Provide recipient's account number and the amount (assuming the user has cash on hand).
