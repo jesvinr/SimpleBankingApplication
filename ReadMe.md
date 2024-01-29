@@ -30,6 +30,7 @@ This is a basic banking system implementation that allows users to create accoun
 ## Project Structure
 
 src/
+
 |-- model/
 
 | |-- Account.java 
