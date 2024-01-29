@@ -19,7 +19,6 @@ Features:
 
 3.Withdraw:
     Users can withdraw money from their account by providing account number, password, and the amount to withdraw.
-Fund Transfer:
 
 4.Money transfer:
     Allows users to transfer money from one account to another.
